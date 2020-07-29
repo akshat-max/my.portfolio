@@ -121,7 +121,7 @@ a.nav-items:hover {
 .title {
 	color: #fff;
 	text-align: left;
-	flex-wrap: nowrap;
+	flex-wrap: auto;
 	margin-bottom: 2rem;
 }
 
