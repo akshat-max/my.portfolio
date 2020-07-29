@@ -106,6 +106,7 @@ a.nav-items:hover {
 }
 
 
+
 .project-figure {
 	margin: 0 auto 1rem auto;
 	max-height: 256px;
@@ -120,6 +121,7 @@ a.nav-items:hover {
 .title {
 	color: #fff;
 	text-align: left;
+	flex-wrap: nowrap;
 	margin-bottom: 2rem;
 }
 
