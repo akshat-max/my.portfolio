@@ -99,11 +99,21 @@ a.nav-items:hover {
 	height:200px;
 	border-radius: 50%;
 }
+.avatar:hover {
+    transform: scale(1.25) rotate(-3deg);
+}
 
 .intro-description{
 	padding-top: 1rem;
 	
 }
+.intros{
+	color: rgb(138, 177, 177);
+}
+a.intros:hover{
+	color: #fff;
+}
+
 
 
 
